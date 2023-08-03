@@ -1,14 +1,16 @@
 ### Hi there 👋
 
- I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components-based CMS. 
+ I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components based CMS. 
  
+
+
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/purvesh-patel-b0365a50/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/avoredecommerce"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=indpurvesh&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF0F3D,ff288c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/indpurvesh/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=indpurvesh&include_orgs=true&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=30,FF0F3D,ff288c&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/indpurvesh/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indpurvesh&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="indpurvesh" align="right">
 
@@ -35,10 +37,11 @@
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mysql"/> </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> </a>
+<a href="https://surrealdb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" alt="surrealdb"/> </a>
 </p>
 
 
