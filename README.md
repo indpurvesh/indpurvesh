@@ -1,9 +1,7 @@
 ### Hi there 👋
 
- I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components based CMS. 
+ I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components-based CMS. 
  
-
-
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/purvesh-patel-b0365a50/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -18,6 +16,7 @@
 <h3 align="left">Programming Lanugages I have work with:</h3>
 <p align="left">
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-FFD43B?style=for-the-badge&logo=php&logoColor=blue" alt="php"/> </a>
+   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/csharp-FFD43B?style=for-the-badge&logo=csharp&logoColor=blue" alt="c#"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
