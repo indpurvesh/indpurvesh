@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components based CMS. 
+ I'm Purvesh I'm a Software Engineer with hands-on experience in implementing and designing enterprise applications. Currently, I am working on Rust based components CMS. 
  
 
 
